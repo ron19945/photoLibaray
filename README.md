@@ -39,6 +39,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+1. **Project Title & Description**: A brief explanation of what the PhotoLibrary does.
+2. **Installation**: Instructions on how to install the library via npm, yarn, or directly from GitHub.
+3. **Usage**: Example code to show how to use the library, including methods like `captureImage` and `sendPhotosToAPI`.
+4. **API Documentation**: A breakdown of each method in the library with parameters and return values.
+5. **Publishing**: Instructions on how to publish the library to npm.
+6. **License**: The license under which the library is distributed.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
